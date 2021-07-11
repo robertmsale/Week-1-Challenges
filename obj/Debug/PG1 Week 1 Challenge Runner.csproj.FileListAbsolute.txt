@@ -1,0 +1,7 @@
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\obj\Debug\PG1 Week 1 Challenge Runner.csproj.AssemblyReference.cache
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\obj\Debug\PG1 Week 1 Challenge Runner.csproj.CoreCompileInputs.cache
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\bin\Debug\PG1 Week 1 Challenge Runner.exe.config
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\bin\Debug\PG1 Week 1 Challenge Runner.exe
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\bin\Debug\PG1 Week 1 Challenge Runner.pdb
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\obj\Debug\PG1 Week 1 Challenge Runner.exe
+C:\Users\rober\Full Sail\Programming 1\Challenges\PG1 Week 1 Challenges\PG1 Week 1 Challenge Runner\obj\Debug\PG1 Week 1 Challenge Runner.pdb
